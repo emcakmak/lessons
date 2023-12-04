@@ -1,0 +1,5 @@
+cd - change directory
+example: cd html/
+example 2: cd ..
+description: Navigate from one location in memory into another using the terminal. Provide the directory (folder) name to go into,
+or alternatively, go back up a directory (example 2).
